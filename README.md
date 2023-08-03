@@ -13,5 +13,10 @@ This is how the app looks once you run the program!
 
 
 The app allows two players to play together until one of them wins or else its a tie.
+
+
 ![ticread3](https://github.com/DenaAlharbi/Tic-Tac-Toe/assets/109204661/0d4f73a4-eee3-45d3-b9f3-5467aea2a0e1)
+
+
+
 There are two button options in the left corner to either close the game or play again!
